@@ -1,0 +1,1 @@
+para esse projeto eu utilizei o banco de dados mysql
